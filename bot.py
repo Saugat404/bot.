@@ -15,7 +15,7 @@ banner=f"""       {YELLOW} _   _
    / \/`-----'\/ \\ 
  __\ ( (     ) ) /__
  )   /\ \._./ /\   (
-  )_/ /|\   /|\ \_({PINK} github.com/xerafero"""
+  )_/ /|\   /|\ \_({PINK} github.com/Saugat404"""
 
 _count=[]
 url='https://mbasic.facebook.com/'
